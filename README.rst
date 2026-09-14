@@ -39,6 +39,15 @@ This extension works with CKAN >= 2.7 and runs both on Python 2.7 and 3.6+.
 
 
 ------------
+
+PostgreSQL-only CKAN
+--------------------
+
+This fork is tested against the PostgreSQL-only CKAN
+(https://github.com/parripollo/ckanito): no Solr, no Redis. The extension
+needed no changes.
+
+
 Installation
 ------------
 
